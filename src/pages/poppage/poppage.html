@@ -1,0 +1,4 @@
+<ion-list>
+      <ion-list-header>Ionic</ion-list-header>
+      <button ion-item  *ngFor="let item of items,let i = index" (click)="close($event,i)">{{item}}</button>
+</ion-list>
