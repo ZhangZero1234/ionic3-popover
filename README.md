@@ -24,3 +24,5 @@ $ ionic cordova run ios
 
 Substitute ios for android if not on a Mac.
 
+### introduction:
+这个popover模板已经实现了create 和 dismiss的数据互传。
